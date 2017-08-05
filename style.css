@@ -37,8 +37,8 @@ div{
     margin-right: 100px;   
 }
 
-:placeholder {
-    color: red;
+::-webkit-input-placeholder {
+  color: #c2c2c2;
 }
 
 button{
